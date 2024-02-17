@@ -3,6 +3,10 @@
 
 <h3 align="center"> 💻 Tech Stack 💻</h3>
 
+<div align="center">
+  <img width="50" src="https://github.com/dpung1/dpung1/assets/137989661/71412402-9d3c-49d7-9abb-138ed85dd5a4"/>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
