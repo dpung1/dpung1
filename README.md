@@ -4,7 +4,8 @@
 <h3 align="center"> 💻 Tech Stack 💻</h3>
 
 <div align="center">
-  <img width="50" src="https://github.com/dpung1/dpung1/assets/137989661/71412402-9d3c-49d7-9abb-138ed85dd5a4"/>
+  <img width="65" src="https://github.com/dpung1/dpung1/assets/137989661/ded6e295-295e-48a8-be46-6122032dd707"/>
+
 </div>
 
 <p align="center">
