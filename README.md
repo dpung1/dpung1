@@ -5,8 +5,9 @@
 
 <div align="center">
   <img width="65" src="https://github.com/dpung1/dpung1/assets/137989661/ded6e295-295e-48a8-be46-6122032dd707"/>
-  <img width="65" src=""/>
-  <img width="65" src=""/>
+  <img width="65" src="https://github.com/dpung1/dpung1/assets/137989661/9de78ded-2323-41c3-a63d-17085414ded5"/>
+  <img width="65" src="https://github.com/dpung1/dpung1/assets/137989661/68ad553b-b5a8-46f4-9a60-899a2d71728c"/>
+  <img width="65" src="https://github.com/dpung1/dpung1/assets/137989661/b2857981-1749-4134-ab45-b8a32b6306c1"/>
 </div>
 
 <p align="center">
