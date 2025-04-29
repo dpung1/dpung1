@@ -35,9 +35,9 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <br/>
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" />
-  <br/>
     <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" />
+  <br/>
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" />
 </p>
